@@ -1,0 +1,19 @@
+.body {
+	background-color:black;
+}
+.ace_editor {
+	border: 1px solid black;
+	width: 49.6%;
+}
+.scrollmargin {
+	height: 80px;
+        text-align: center;
+}
+#editor1 {
+	padding: 50% 0% 0% 0%;
+	float: left;
+}
+#editor2 {
+	padding: 50% 0% 0% 0%;
+	float: right;
+	}
